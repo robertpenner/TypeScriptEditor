@@ -9,7 +9,7 @@ if (typeof importScripts !== 'undefined') {
 import {createLanguageServiceHost, LanguageServiceHost} from "./languageServiceHost";
 
 /**
- * Wraps up `langaugeService` `languageServiceHost` in a single package
+ * Wraps up `languageService` `languageServiceHost` in a single package
  */
 class TsProject {
     public languageServiceHost: LanguageServiceHost;

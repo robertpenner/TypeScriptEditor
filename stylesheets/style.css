@@ -17,7 +17,7 @@ body{
    box-shadow: 0 0 1px black inset;
 }
 
-.warp-container{
+.wrap-container{
     float:left;
     width:49%;
 }
@@ -65,7 +65,7 @@ body{
     border-bottom: 1px solid red;
 }
 
-.langauge-title h2{
+.language-title h2{
     padding: 5px 10px;
     font-size:14pt;
     color: black;
@@ -146,7 +146,7 @@ body{
 }
 
 .ace_autocomplete .label-type{
-    visibility:visible;    
+    visibility:visible;
 }
 .ace_autocomplete_selected {
     background: grey;
